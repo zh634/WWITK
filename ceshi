@@ -1,0 +1,21 @@
+import java.until.Scanner;
+public class sum
+{
+ int sum=0;
+ 
+void qiuhe()
+{
+for(int i=0;i<1=00;i++)
+sum=sum+i;
+}
+
+
+
+public static void main()
+{ sum q=new sum();
+  q.qiuhe();
+  println(sum);
+}
+
+
+}
